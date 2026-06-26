@@ -1,0 +1,6 @@
+{
+  "name": "SB Agrotech",
+  "description": "Leading manufacturer of innovative farm equipment and agricultural technology. Includes our AI-powered Gear Concierge, interactive product catalog, and multi-lingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
